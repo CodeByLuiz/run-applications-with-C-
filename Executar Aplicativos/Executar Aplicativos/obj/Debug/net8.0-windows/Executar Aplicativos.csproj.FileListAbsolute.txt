@@ -1,0 +1,16 @@
+C:\Users\lzssa\source\repos\Executar Aplicativos\Executar Aplicativos\bin\Debug\net8.0-windows\Executar Aplicativos.exe
+C:\Users\lzssa\source\repos\Executar Aplicativos\Executar Aplicativos\bin\Debug\net8.0-windows\Executar Aplicativos.deps.json
+C:\Users\lzssa\source\repos\Executar Aplicativos\Executar Aplicativos\bin\Debug\net8.0-windows\Executar Aplicativos.runtimeconfig.json
+C:\Users\lzssa\source\repos\Executar Aplicativos\Executar Aplicativos\bin\Debug\net8.0-windows\Executar Aplicativos.dll
+C:\Users\lzssa\source\repos\Executar Aplicativos\Executar Aplicativos\bin\Debug\net8.0-windows\Executar Aplicativos.pdb
+C:\Users\lzssa\source\repos\Executar Aplicativos\Executar Aplicativos\obj\Debug\net8.0-windows\Executar_Aplicativos.Form1.resources
+C:\Users\lzssa\source\repos\Executar Aplicativos\Executar Aplicativos\obj\Debug\net8.0-windows\Executar Aplicativos.csproj.GenerateResource.cache
+C:\Users\lzssa\source\repos\Executar Aplicativos\Executar Aplicativos\obj\Debug\net8.0-windows\Executar Aplicativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lzssa\source\repos\Executar Aplicativos\Executar Aplicativos\obj\Debug\net8.0-windows\Executar Aplicativos.AssemblyInfoInputs.cache
+C:\Users\lzssa\source\repos\Executar Aplicativos\Executar Aplicativos\obj\Debug\net8.0-windows\Executar Aplicativos.AssemblyInfo.cs
+C:\Users\lzssa\source\repos\Executar Aplicativos\Executar Aplicativos\obj\Debug\net8.0-windows\Executar Aplicativos.csproj.CoreCompileInputs.cache
+C:\Users\lzssa\source\repos\Executar Aplicativos\Executar Aplicativos\obj\Debug\net8.0-windows\Executar Aplicativos.dll
+C:\Users\lzssa\source\repos\Executar Aplicativos\Executar Aplicativos\obj\Debug\net8.0-windows\refint\Executar Aplicativos.dll
+C:\Users\lzssa\source\repos\Executar Aplicativos\Executar Aplicativos\obj\Debug\net8.0-windows\Executar Aplicativos.pdb
+C:\Users\lzssa\source\repos\Executar Aplicativos\Executar Aplicativos\obj\Debug\net8.0-windows\Executar Aplicativos.genruntimeconfig.cache
+C:\Users\lzssa\source\repos\Executar Aplicativos\Executar Aplicativos\obj\Debug\net8.0-windows\ref\Executar Aplicativos.dll

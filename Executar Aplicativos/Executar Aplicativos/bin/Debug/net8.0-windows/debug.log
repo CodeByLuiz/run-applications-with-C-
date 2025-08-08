@@ -1,0 +1,39 @@
+[9036:10068:0808/162019.101:VERBOSE1:chrome\updater\updater.cc:316] Version: 140.0.7273.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\Update\GoogleUpdate.exe" 
+[9036:10068:0808/162019.101:VERBOSE1:chrome\updater\updater.cc:319] OS version: 10.0.26100.4652, System uptime (seconds): 79257, parent pid: 8648
+[8780:18496:0808/162019.121:VERBOSE1:chrome\updater\updater.cc:316] Version: 140.0.7273.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\Update\GoogleUpdate.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\140.0.7273.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=140.0.7273.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x274,0x278,0x27c,0x158,0x280,0x7ff6750e1a78,0x7ff6750e1a84,0x7ff6750e1a90
+[8780:18496:0808/162019.121:VERBOSE1:chrome\updater\updater.cc:319] OS version: 10.0.26100.4652, System uptime (seconds): 79257, parent pid: 9036
+[9036:10068:0808/162019.121:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[9036:10068:0808/162019.121:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[9036:10068:0808/162019.121:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[9036:10068:0808/162019.121:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:84] no app enables usage stats
+[9036:10068:0808/162019.121:VERBOSE1:chrome\updater\updater.cc:90] Crash reporting initialized.
+[9036:10068:0808/162019.134:VERBOSE1:chrome\updater\updater.cc:145] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[9036:10068:0808/162019.137:VERBOSE1:chrome\updater\updater.cc:220] Unknown command line switch.
+[9036:10068:0808/162019.139:VERBOSE1:chrome\updater\updater.cc:324] UpdaterMain (--) returned 75009.
+[8780:18496:0808/162019.143:VERBOSE1:chrome\updater\updater.cc:324] UpdaterMain (--crash-handler) returned 0.
+[22184:14276:0808/162033.760:VERBOSE1:chrome\updater\updater.cc:316] Version: 140.0.7273.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\Update\GoogleUpdate.exe" 
+[22184:14276:0808/162033.760:VERBOSE1:chrome\updater\updater.cc:319] OS version: 10.0.26100.4652, System uptime (seconds): 79272, parent pid: 8648
+[14320:22028:0808/162033.780:VERBOSE1:chrome\updater\updater.cc:316] Version: 140.0.7273.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\Update\GoogleUpdate.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\140.0.7273.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=140.0.7273.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x278,0x27c,0x280,0xc0,0x284,0x7ff6750e1a78,0x7ff6750e1a84,0x7ff6750e1a90
+[14320:22028:0808/162033.780:VERBOSE1:chrome\updater\updater.cc:319] OS version: 10.0.26100.4652, System uptime (seconds): 79272, parent pid: 22184
+[22184:14276:0808/162033.781:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[22184:14276:0808/162033.783:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[22184:14276:0808/162033.783:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[22184:14276:0808/162033.783:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:84] no app enables usage stats
+[22184:14276:0808/162033.783:VERBOSE1:chrome\updater\updater.cc:90] Crash reporting initialized.
+[22184:14276:0808/162033.785:VERBOSE1:chrome\updater\updater.cc:145] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[22184:14276:0808/162033.785:VERBOSE1:chrome\updater\updater.cc:220] Unknown command line switch.
+[22184:14276:0808/162033.785:VERBOSE1:chrome\updater\updater.cc:324] UpdaterMain (--) returned 75009.
+[14320:22028:0808/162033.785:VERBOSE1:chrome\updater\updater.cc:324] UpdaterMain (--crash-handler) returned 0.
+[19380:20388:0808/162033.992:VERBOSE1:chrome\updater\updater.cc:316] Version: 140.0.7273.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\Update\GoogleUpdate.exe" 
+[19380:20388:0808/162033.992:VERBOSE1:chrome\updater\updater.cc:319] OS version: 10.0.26100.4652, System uptime (seconds): 79272, parent pid: 8648
+[20680:8772:0808/162034.016:VERBOSE1:chrome\updater\updater.cc:316] Version: 140.0.7273.0, opt, x86_64, command line: "C:\Program Files (x86)\Google\Update\GoogleUpdate.exe" --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\140.0.7273.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=140.0.7273.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" --initial-client-data=0x268,0x26c,0x270,0x244,0x274,0x7ff6750e1a78,0x7ff6750e1a84,0x7ff6750e1a90
+[20680:8772:0808/162034.016:VERBOSE1:chrome\updater\updater.cc:319] OS version: 10.0.26100.4652, System uptime (seconds): 79272, parent pid: 19380
+[19380:20388:0808/162034.016:VERBOSE1:chrome\updater\crash_reporter.cc:120] Crash handler launched and ready.
+[19380:20388:0808/162034.016:ERROR:chrome\updater\crash_client.cc:116] Failed to fetch completed crash reports: 3
+[19380:20388:0808/162034.016:ERROR:chrome\updater\crash_client.cc:132] Failed to fetch pending crash reports: 3
+[19380:20388:0808/162034.016:VERBOSE2:chrome\updater\usage_stats_permissions_win.cc:84] no app enables usage stats
+[19380:20388:0808/162034.016:VERBOSE1:chrome\updater\updater.cc:90] Crash reporting initialized.
+[19380:20388:0808/162034.016:VERBOSE1:chrome\updater\updater.cc:145] IsUserAdmin: 0, IsUserNonElevatedAdmin: 1, IsUACOn: 1, IsElevatedWithUACOn: 0, LUA: 1
+[19380:20388:0808/162034.016:VERBOSE1:chrome\updater\updater.cc:220] Unknown command line switch.
+[19380:20388:0808/162034.021:VERBOSE1:chrome\updater\updater.cc:324] UpdaterMain (--) returned 75009.
+[20680:8772:0808/162034.026:VERBOSE1:chrome\updater\updater.cc:324] UpdaterMain (--crash-handler) returned 0.
